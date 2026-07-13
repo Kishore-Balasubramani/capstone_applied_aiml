@@ -1,0 +1,20 @@
+[
+    {
+        "predicted_price_level": "Medium",
+        "overall_condition": "Average",
+        "reason": "The property features a standard 1960s construction with average quality finishes and moderate square footage.",
+        "record_number": 1
+    },
+    {
+        "predicted_price_level": "Low",
+        "overall_condition": "Average",
+        "reason": "The property is a modest 1961 single-story home with basic finishes and a small square footage, placing it in the lower price bracket.",
+        "record_number": 2
+    },
+    {
+        "predicted_price_level": "Medium",
+        "overall_condition": "Average",
+        "reason": "The property is a standard 1950s single-family home with average quality finishes and moderate square footage.",
+        "record_number": 3
+    }
+]
